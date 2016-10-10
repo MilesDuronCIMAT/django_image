@@ -20,7 +20,7 @@ To instal Django use this.
 How to run
 -------------
 Browse to the root of the repository where the manage.py file is located and execute this.
->$sudo pyhton manage.py runserver
+>$ pyhton manage.py runserver
 
 And run it in your favorite broser using the next url.
 >http://localhost:8000/updload
