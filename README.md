@@ -12,6 +12,7 @@ Installation
 ### 1.Pip
 To install Django first you need to install **Pip**. Download this .py file frome here https://bootstrap.pypa.io/get-pip.py and install it using python as follow
 >$python get-pip.py
+
 ### 2.Django
 To instal Django use this
 >$pip install Django==1.8
